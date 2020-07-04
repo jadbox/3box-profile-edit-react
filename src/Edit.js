@@ -17,7 +17,7 @@ import {
 } from './components/Modals';
 import GeneralProfile from './components/GeneralProfile';
 import SpaceProfile from './components/SpaceProfile';
-import './styles';
+// import './styles';
 
 class EditProfile extends Component {
   constructor(props) {
